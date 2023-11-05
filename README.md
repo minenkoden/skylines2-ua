@@ -20,3 +20,7 @@
 <p>
   За зворотнім зв'язком можно звертатися в <a href="https://discord.gg/D6gmtM37">діскорд</a>.
 </p>
+<p>
+  Оновлення локалізації: <a href="https://github.com/minenkoden/skylines2-ua">Github</a>.
+</p>
+
